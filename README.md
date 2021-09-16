@@ -39,9 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### 图片测试
 ![图片](https://sujunjie.github.io/blog/static/81f8a509gy1fnjdvkkwgoj20zk0m8ak8.jpg)
 
-
-static/v1.mp4
-
 ### 视频测试
 <p>
 <video id="video" controls="" preload="none" poster="https://sujunjie.github.io/blog/static/81f8a509gy1fnjdvkkwgoj20zk0m8ak8.jpg">
