@@ -38,3 +38,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### 图片测试
 ![图片](https://sujunjie.github.io/blog/static/81f8a509gy1fnjdvkkwgoj20zk0m8ak8.jpg)
+
+
+static/v1.mp4
+
+### 视频测试
+<video id="video" controls="" preload="none" poster="https://sujunjie.github.io/blog/static/81f8a509gy1fnjdvkkwgoj20zk0m8ak8.jpg">
+    <source id="mp4" src="https://sujunjie.github.io/blog/static/v1.mp4" type="video/mp4">
+</video>
+
+
