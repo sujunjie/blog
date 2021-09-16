@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ccc，看这就是一个简单的blog
 
 You can use the [editor on GitHub](https://github.com/sujunjie/blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
